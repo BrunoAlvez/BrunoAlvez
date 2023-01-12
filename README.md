@@ -10,6 +10,6 @@ Desenvolvedor de software back-end em PHP, sempre curioso e interessado em novas
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BrunoAlvez&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrunoAlvez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlvez&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlvez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
