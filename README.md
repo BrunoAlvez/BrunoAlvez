@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Desenvolvedor de software back-end em PHP, sempre curioso e interessado em novas tecnologias.<br>Formado em técnico em informática pelo Instituto Federal Catarinense e cursando Engenharia Elétrica pela Universidade Federal de Santa Catarina, em busca de novos conhecimentos que agreguem.<br>Atualmente empregado no back-end de projetos da Doutor-IE | Inteligência Automotiva
+Desenvolvedor de software fullstack, sempre curioso e interessado em novas tecnologias.<br>Formado em técnico em informática pelo Instituto Federal Catarinense e cursando Engenharia Elétrica pela Universidade Federal de Santa Catarina, em busca de novos conhecimentos que agreguem.<br>Atualmente empregado como fullstack em projetos da Doutor-IE | Inteligência Automotiva
 
 
 ## 🌐 Redes sociais:
